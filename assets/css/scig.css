@@ -1,0 +1,27 @@
+body {
+    text-align: justify;
+}
+
+header {
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+header img {
+    float: left;
+    padding-right: 10px;
+}
+
+header h1 {
+    position: relative;
+    margin-bottom: 0;
+}
+
+header a {
+    text-decoration: none;
+}
+
+h2 i.bi {
+    padding-right: 10px;
+}
