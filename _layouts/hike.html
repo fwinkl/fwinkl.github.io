@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <div class="navbar-nav">
+      <a class="nav-link" aria-current="page" href="/scig">All My Hikes</a>
+    </div>
+  </div>
+</nav>
+
 <div class="row mb-2">
   <div class="col-sm-3 d-flex justify-content-center">
     <a href="https://www.scig.ch/randonnees-pedestres"><img src="/assets/img/scig-logo.png" alt="logo"></a>
@@ -15,22 +24,11 @@ layout: default
     </header>
   </div>
 </div>
-<div class="row">
-  {{ content }}
-</div>
 
-<div class="row">
   <!-- Photo carousel -->
-  <div id="photoCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
+  <!--div id="photoCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
     <div class="carousel-inner">
       {% assign first = true -%}
-      {% assign page_name = page.name | remove: ".md" -%}
-      {% for image in site.static_files -%}
-      {% if image.name contains page_name %}
-      <div class="carousel-item{% if first %} active{% endif %}"><img class="d-block w-100" src="{{ image.name }}" alt=""></div>
-      {% assign first = false -%}
-      {% endif -%}
-      {% endfor %}
       <button class="carousel-control-prev" type="button" data-bs-target="#photoCarousel" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
@@ -40,14 +38,42 @@ layout: default
         <span class="visually-hidden">Next</span>
       </button>
     </div>
+  </div-->
+
+<div class="row justify-content-center">
+  {% for media in page.media -%}
+  <div class="col-xs-3 d-flex justify-content-center">
+    <figure class="figure">
+      <img src="{{ media.url }}" width="500px" alt="">
+      <figcaption class="figure-caption text-end"><i class="bi bi-c-circle"></i> {{ media.origin }}</figcaption>
+    </figure>
   </div>
+  {% endfor %}
+<!--
+  {% assign page_name = page.name | remove: ".md" -%}
+  {% for image in site.static_files -%}
+  {% if image.name contains page_name %}
+  <div class="col-xs-3 d-flex"><img src="{{ image.name }}" width="200px" alt=""></div>
+  {% endif -%}
+  {% endfor %}
+-->
+</div>
+
+<div class="row">
+  {{ content }}
 </div>
 
 <hr>
 <h5>Disclaimer</h5>
+<p>
 <i>By registering, you agree that you are fit for this level of hike and/or that you have previously
   participated in a similar hike with <a href="https://www.scig.ch/">SCIG</a>. By registering, you
   confirm that you carry insurance against accidents and mountain rescue, including helicopter
   rescue operations (e.g. <a href="https://www.rega.ch">REGA</a>). Check with your employer to see
   if you are properly insured. The hike leader and SCIG disclaim any and all liability for accidents
   related to this hike. The hike leader is not a professional guide.</i>
+</p>
+
+<footer class="d-flex">
+Last update: {{ site.time | date: '%Y-%m-%d' }}
+</footer>

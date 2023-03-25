@@ -1,31 +1,34 @@
 ---
-title: Traversee Monte Tendre
-rating: difficult (T5)
-date: 2023-05-23
-deadline: 2023-05-20
-up: 1000m
-down: 500m
-distance: 16 km
-duration: 5h
-map: https://www.outdooractive.com/en/route/mountain-hike/rhone-alpes/pointe-noire-de-pormenaz/259716272/?share=%7Ezvzf73vk%244ossv97e
+title: Traverse Teysachaux - Moléson
+rating: difficult (T3)
+date: 2023-04-30
+deadline: 2023-04-27
+up: 1100m
+down: 1100m
+distance: 14 km
+duration: 6h
+map: https://www.outdooractive.com/en/route/hiking-route/switzerland/teysachaux-moleson/259721860/?share=%7Ezvzhadxz%244ossv9mj
+media:
+    - url: https://media.camptocamp.org/c2corg-active/1590213146_1788468089.jpg
+      origin: <a href="https://www.camptocamp.org/images/1208984">stephanie78</a> (CC by-nc-nd)
 ---
-A hike to the highest **point of the Suisse Jura**. We are doing this hike late in the season to profit
-from the cold (and dry!) air that usually provides spectacular long range visibility over the entire
-alpine range from Jungfrau to Mont Blanc.
 
-We take the train+bus to **Montricher** and hike up a well maintained trail to the summit of Mont
-Tendre (~3 hours). We will have lunch on the summit and continue along the Jura Crest Trail to
-the Col du Marchairuz (~2 hours) where we should have some time for a drink before taking the
-bus back to Geneva. This hike has no particular difficulties but the elevation gain of 1000m is at the
-upper limit of “medium”.
+A traverse of two iconic mountains in the Swiss Prealps overlooking the region of Gruyères.
+With good visibility we will see a panorama of the entire Alpine range and of course Lake Geneva.
+The trail has some exposed sections and requires a sure foot.
+
+We will take the train and bus to **Les Paccots (1100m)** and ascend **Teysachaux (1909m)** via its
+SW ridge. From the top we descend on a steep, grassy and rocky ridge to the Crête de Moléson which
+we follow to the summit of **Le Moléson (2002m)**. From the summit we will skip the cable car
+and hike down to it base from where we will take a bus and train back to Geneva.
 
 ## <i class="bi bi-card-checklist"></i>Equipment
 - Usual hiking equipment and picnic
-- Buy your one-way train ticket
+- Buy your one-way train ticket in advance
 
 ## <i class="bi bi-piggy-bank"></i>Costs
-- Train tickets: ~30 CHF with demi-tarif
-- Ski Club tax: 5 CHF / 15 CHF non-members
+- Train tickets: ~42 CHF with demi-tarif
+- Ski Club tax: 5 CHF
 
 ## <i class="bi bi-envelope-at"></i>Signup
 - Hike leader: Frank Winklmeier
@@ -36,6 +39,6 @@ upper limit of “medium”.
   - Are you a Ski Club (SCIG) member of the current season 2020/21?
 
 ## <i class="bi bi-train-front"></i>Transport
-- **IR 8:29 Genève – 9:47 Montricher, Champet (via Morges, Apples)**
-- Train station on the platform towards the end of the train.
-- Return via bus+train from Col du Marchairuz at 16:47 or 17:47.
+- **IR 7:59 Genève – 9:39 Les Paccots, Les Rosalys** (via Palézieux, Châtel-St-Denis)
+- We meet on the platform towards the end of the train.
+- Return via bus+train from Moléson-sur-Gruyères at 16:18, 17:18 or 18:18 (2h45)
