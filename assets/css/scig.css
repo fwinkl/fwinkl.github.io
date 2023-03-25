@@ -25,10 +25,3 @@ a {
 h2 i.bi {
     padding-right: 10px;
 }
-
-#photoCarousel .carousel-item img {
-  object-fit: contain;
-  object-position: center;
-  overflow: hidden;
-  height:30vh;
-}

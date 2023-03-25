@@ -31,12 +31,10 @@ and hike down to it base from where we will take a bus and train back to Geneva.
 - Ski Club tax: 5 CHF
 
 ## <i class="bi bi-envelope-at"></i>Signup
-- Hike leader: Frank Winklmeier
-- Email: <a href="mailto:{{ page.email }}?subject=SCIG {{page.title}}">{{ page.email }}</a>
-- Sign-up via email by **{{ page.deadline | date: "%A, %d %b %Y"}}** with the following information
+- Hike leader: Frank Winklmeier (<a href="mailto:{{ page.email }}?subject=SCIG {{page.title}}">{{ page.email }}</a>)
+- Sign-up via email by **{{ page.deadline | date: "%A, %d %b %Y"}}** with the following information:
   - Full name
   - Mobile phone number
-  - Are you a Ski Club (SCIG) member of the current season 2020/21?
 
 ## <i class="bi bi-train-front"></i>Transport
 - **IR 7:59 Genève – 9:39 Les Paccots, Les Rosalys** (via Palézieux, Châtel-St-Denis)

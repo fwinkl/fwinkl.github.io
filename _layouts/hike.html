@@ -21,24 +21,10 @@ layout: default
       {{ page.date | date: "%A %d %b %Y"}}</br>
       {{ page.rating }}</br>
       {% include hikestats.html %}
+      <i class="bi bi-signpost"></i><a href="{{ page.map }}" target="_blank">Map</a>
     </header>
   </div>
 </div>
-
-  <!-- Photo carousel -->
-  <!--div id="photoCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
-    <div class="carousel-inner">
-      {% assign first = true -%}
-      <button class="carousel-control-prev" type="button" data-bs-target="#photoCarousel" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#photoCarousel" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
-    </div>
-  </div-->
 
 <div class="row justify-content-center">
   {% for media in page.media -%}
@@ -49,14 +35,6 @@ layout: default
     </figure>
   </div>
   {% endfor %}
-<!--
-  {% assign page_name = page.name | remove: ".md" -%}
-  {% for image in site.static_files -%}
-  {% if image.name contains page_name %}
-  <div class="col-xs-3 d-flex"><img src="{{ image.name }}" width="200px" alt=""></div>
-  {% endif -%}
-  {% endfor %}
--->
 </div>
 
 <div class="row">
