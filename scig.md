@@ -13,11 +13,9 @@ For a list of all SCIG hikes see the <a href="https://www.scig.ch/randonnees-ped
         <a href="{{ page.url }}"><img src="{{ page.media[0].url }}" class="img-fluid"></a>
     </div>
     <div class="col-sm">
-        <p>
         {{ page.excerpt | markdownify }}
         <b>{{ page.rating }}</b>: {% include hikestats.html %}
             <i class="bi bi-newspaper"></i>&nbsp;<a href="{{ page.url }}">Description</a>
-        </p>
     </div>
 </div>
 {% endfor %}
