@@ -30,7 +30,7 @@ layout: default
   {% for media in page.media -%}
   <div class="col-xs-3 d-flex justify-content-center">
     <figure class="figure">
-      <img src="{{ media.url }}" width="500px" alt="">
+      <img src="{{ media.url }}" class="img-fluid" style="max-width: 600px; width:100%" alt="photo">
       <figcaption class="figure-caption text-end"><i class="bi bi-c-circle"></i> {{ media.origin }}</figcaption>
     </figure>
   </div>
