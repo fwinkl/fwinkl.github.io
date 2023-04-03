@@ -53,5 +53,5 @@ layout: default
 </p>
 
 <footer class="d-flex">
-Last update: {{ site.time | date: '%Y-%m-%d' }}
+Last update: {{ page.path | file_date | date: '%Y-%m-%d' }}
 </footer>
