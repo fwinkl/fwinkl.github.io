@@ -6,7 +6,8 @@ layout: default
 I am organizing the following ski club hikes this year.
 For a list of all SCIG hikes see the <a href="https://www.scig.ch/randonnees-pedestres">official SCIG website</a>.
 
-{% for page in site.scig %}
+{% assign hikes = site.scig | sort: "date" | reverse %}
+{% for page in hikes %}
 <div class="row mb-2">
     <h5><i class="bi bi-calendar-event"></i>&nbsp;{{ page.date | date: "%a %d %b %Y" }}&nbsp;&nbsp;<a href="{{ page.url }}">{{ page.title }}</a></h5>
     <div class="col-sm-3">
