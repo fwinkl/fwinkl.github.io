@@ -65,7 +65,7 @@ suspension bridge and potentially visit the Gorner gorge.
 
 
 ## <i class="bi bi-envelope-at"></i>Signup
-- Hike leader: Frank Winklmeier (<a href="mailto:{{ page.email }}?subject=SCIG {{page.title}}">{{ page.email }}</a>)
+- Hike leader: Frank Winklmeier (<a href="mailto:{{ page.email }}?subject=SCIG {{page.title}}">{{ page.email }}</a>), Assistant: Maica Trabanco
 - Sign-up via email with the following information:
   - Full name
   - Mobile phone number
