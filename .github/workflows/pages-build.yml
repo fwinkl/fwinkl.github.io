@@ -14,7 +14,7 @@ jobs:
           curl -L --fail --request POST \
             --header "Accept: application/vnd.github+json" \
             --header "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            --url https://api.github.com/repos/${{ github.repository }}/pages/builds
+            --url https://api.github.com/repos/fwinkl/fwinkl.github.io/pages/builds
 
         env:
           # Create a token at https://github.com/settings/tokens
