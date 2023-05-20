@@ -26,6 +26,10 @@ h2 i.bi {
     padding-right: 10px;
 }
 
+div.old, div.old a {
+    color: gray;
+}
+
 ul {
     margin-left: 1.2rem;
     padding-left: 1.2rem;
