@@ -6,13 +6,18 @@ layout: default
 I am organizing the following ski club hikes this year.
 For a list of all SCIG hikes see the <a href="https://www.scig.ch/randonnees-pedestres">official SCIG website</a>.
 
-{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture now %}{{"now" | date: "%s"}}{% endcapture %}
 {% assign hikes = site.scig | sort: "date" | reverse %}
 {% for page in hikes %}
-{% capture hikedate %}{{page.date | date: '%s'}}{% endcapture %}
+{% capture hikedate %}{{page.date | date: "%s"}}{% endcapture %}
     {% if hikedate < now -%}
         {% assign style = "old" %}
     {% endif %}
+{% capture hikeyear %}{{page.date | date: "%Y"}}{% endcapture %}
+{% if year != hikeyear %}
+    {% assign year = hikeyear %}
+<h4 class="year">{{ hikeyear }}</h4>
+{% endif %}
 <div class="row mb-2 {{ style }}">
     <h5><i class="bi bi-calendar-event"></i>&nbsp;{{ page.date | date: "%a %d %b %Y" }}&nbsp;&nbsp;<a href="{{ page.url }}">{{ page.title }}</a></h5>
     <div class="col-sm-3">
