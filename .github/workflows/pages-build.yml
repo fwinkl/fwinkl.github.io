@@ -11,9 +11,11 @@ jobs:
     steps:
       - name: Call GitHub pages build endpoint
         run: |
-          curl --fail --request POST \
-            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
-            --header "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}"
+          curl -L --fail --request POST \
+            --header "Accept: application/vnd.github+json" \
+            --header "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            --url https://api.github.com/repos/${{ github.repository }}/pages/builds
+
         env:
           # Create a token at https://github.com/settings/tokens
           # since you cannot trigger a new build with the regular token.
