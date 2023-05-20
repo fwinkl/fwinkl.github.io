@@ -3,7 +3,7 @@ name: pages-build
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 6 * * *' # Runs every day at 6am
+    - cron:  '0 4 * * 1' # Monday 4am
 
 jobs:
   refresh:
@@ -15,8 +15,5 @@ jobs:
             --header "Accept: application/vnd.github+json" \
             --header "Authorization: Bearer $USER_TOKEN" \
             --url https://api.github.com/repos/fwinkl/fwinkl.github.io/pages/builds
-
         env:
-          # Create a token at https://github.com/settings/tokens
-          # since you cannot trigger a new build with the regular token.
           USER_TOKEN: ${{ secrets.USER_TOKEN }}
