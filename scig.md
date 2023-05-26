@@ -1,4 +1,5 @@
 ---
+title: My SCIG hikes
 layout: default
 ---
 
