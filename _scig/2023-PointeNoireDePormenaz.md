@@ -11,7 +11,6 @@ map: https://www.outdooractive.com/en/route/mountain-hike/scig-pointe-noire-de-p
 media:
     - url: https://www.randos-montblanc.com/wp-content/gallery/pointe-noire-de-pormenaz/Pointe_de_Pormenaz45.jpg
       origin: <a href="https://www.randos-montblanc.com/en/hard-hikes/pointe-noire-pormenaz.html">Randos-MontBlanc</a>
-draft: true
 ---
 
 A hike in the Passy National Reserve to **Lac de Pormenaz** and **Pointe Noire (2,323 m)** with
