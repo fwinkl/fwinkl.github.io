@@ -45,5 +45,5 @@ sections.
   - Do you need or can you offer a ride in your car and for how many *additional* people?
 
 ## <i class="bi bi-train-front"></i>Transport
-- Meeting point: **8:30 P+R Thônex, Sous-Moulin** (TPG bus stops 5, 25)
+- Meeting point: **8:30 Gare Routiere, Geneva** (next to the ticket office and the "Coffee Point", [Map](https://goo.gl/maps/cD6tJ3eCWPyDW6Ad6))
 - Instructions for drivers: Highway to Sallanches, take exit number 21 and follow [Station de ski de Plaine Joux (XP2Q+7W Passy, France)](https://goo.gl/maps/4nQGoovgHtHufkeq5)
