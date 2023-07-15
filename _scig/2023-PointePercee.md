@@ -18,16 +18,18 @@ A challenging hike to the highest and very prominent peak in the Aravis massif,
 the Pointe Percée (2750m). We will attempt the traverse by ascending via the Cheminées de Sallanches
 and use the normal route for the descent. The hike offers outstanding views over the Mont Blanc range.
 
-We park our cars at **col des Annes** and take the trail to the refuge de Gramusset. From here we
-continue up the combe de Verts to arrive at the **col de Verts**. After a short traverse we arrive
+<p style="color:red;font-weight:bold">
+This is a very difficult hike (T5) and you have to be able to move safely across rock with the
+occasional use of your hands and be comfortable with large exposure.
+</p>
+
+We park our cars at **Col des Annes (1710m)** and take the trail to the refuge de Gramusset. From here we
+continue up the combe de Verts to arrive at the **Col de Verts**. After a short traverse we arrive
 at the first (and most difficult) chimney with some class II scrambling but very good handholds.
-After that it's a fun cruise to the summit of **Pointe Percée**, never too difficult but challenging
+After that it's a fun cruise to the summit of **Pointe Percée (2750m)**, never too difficult but challenging
 enough to stay alert. After our picnic, we will descend via the normal route which is only marginally
 easier and still requires our full concentration. Once back at the refuge de Gramusset
 we retrace our steps to the car park.
-
-**This is a very difficult hike (T5) and you have to be able to move safely across rock with the
-occasional use of your hands and be comfortable with large exposure.**
 
 ## <i class="bi bi-card-checklist"></i>Equipment
 - Usual hiking equipment and picnic
@@ -47,5 +49,5 @@ occasional use of your hands and be comfortable with large exposure.**
   - Do you need or can you offer a ride in your car and for how many *additional* people?
 
 ## <i class="bi bi-train-front"></i>Transport
-- Meeting point: **8:30 P+R Thônex, Sous-Moulin** (TPG bus stops 5, 25)
-- Instructions for drivers: A40 (Autoroute Blanche) and take exit number 16 to Le Grand Bornand and continue to [Col des Annes, France](https://goo.gl/maps/WVyZ3npfkVGgRoCt6)
+- Meeting point: **8:30 Gare Routiere, Geneva** (next to the ticket office and the "Coffee Point", [Map](https://goo.gl/maps/cD6tJ3eCWPyDW6Ad6))
+- Instructions for drivers: A40 (Autoroute Blanche) and take exit number 18 towards Le Grand-Bornand and follow directions to [Col des Annes, France](https://goo.gl/maps/WVyZ3npfkVGgRoCt6)
