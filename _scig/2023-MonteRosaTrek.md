@@ -22,7 +22,7 @@ or spikes for this hike. But no prior glacier travel experience is required.
 
 ## Itinerary
 <b>Day 1: {% include hikestats.html up="1300m" down="0m" distance="7km" duration="4 hours" %}</b><br/>
-We take the train from Geneva to **Täsch** and hike via the Täschalp to the **[Täsch hut](https://www.taeschhuette.ch) (2700m)**.
+We take the train from Geneva to **Täsch** and hike via the Täschalp to the **[Täsch hut](https://www.taeschhuette.ch) (2700m)**. Those with enough energy can do an optional hike to the Alphubel lake (450m, 2h round-trip).
 
 <b>Day 2: {% include hikestats.html up="800m" down="1200m" distance="13km" duration="6 hours" %}</b><br/>
 We leave the hut after breakfast and ascend the **Pfulwe pass (3155m)** with a short section
@@ -51,6 +51,7 @@ suspension bridge and potentially visit the Gorner gorge.
 - Buy your one-way train ticket before departure
 - Optional:
   - Demi-tarif and alpine club membership card if available
+  - Bathing suit for the brave ones (there are many lakes on the way)
   - Sandals or flip-flops for the train ride can be comfy (otherwise huts provide slippers)
   - Thermos bottle (huts usually provide tea for the day in the morning)
 
@@ -59,9 +60,9 @@ suspension bridge and potentially visit the Gorner gorge.
 - Train tickets: ~95 CHF with demi-tarif
 - Ski Club tax: 20 CHF (60 CHF non-members)
 - Huts (demi-pension):
-  - Täsch: 86 CHF (77 CHF alpine club members)
-  - ze Seewjinu: 125 CHF for 3-4 person room, 110 CHF for dormitory (only 2 spots in dorm)
-  - Monte Rosa: 106 CHF (89 CHF alpine club members)
+  - Täsch: 93 CHF (81 CHF alpine club members)
+  - ze Seewjinu: 125 CHF for 3-4 person room, 110 CHF for dormitory
+  - Monte Rosa: 106 CHF (86 CHF alpine club members)
 
 
 ## <i class="bi bi-envelope-at"></i>Signup
