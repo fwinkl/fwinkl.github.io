@@ -11,7 +11,6 @@ map: https://www.camptocamp.org/routes/54191/fr/pointe-percee-face-s-cheminees-d
 media:
     - url: http://www.valloire-randos.fr/images/randos/pointePercee/presentation_pointePercee.jpg
       origin: <a href="http://www.valloire-randos.fr/balade/la-pointe-percee">Valloire randos</a>
-draft: true
 ---
 
 A challenging hike to the highest and very prominent peak in the Aravis massif,
