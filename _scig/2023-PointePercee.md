@@ -9,8 +9,8 @@ distance: 11 km
 duration: 8h
 map: https://www.camptocamp.org/routes/54191/fr/pointe-percee-face-s-cheminees-de-sallanches
 media:
-    - url: http://www.valloire-randos.fr/images/randos/pointePercee/presentation_pointePercee.jpg
-      origin: <a href="http://www.valloire-randos.fr/balade/la-pointe-percee">Valloire randos</a>
+    - url: https://www.valloire-randos.fr/images/randos/pointePercee/presentation_pointePercee.jpg
+      origin: <a href="https://www.valloire-randos.fr/balade/la-pointe-percee">Valloire randos</a>
 ---
 
 A challenging hike to the highest and very prominent peak in the Aravis massif,
