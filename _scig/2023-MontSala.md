@@ -1,5 +1,5 @@
 ---
-title: Mont Sâla & Fondue
+title: Mont Sâla & Fondue [CANCELED]
 rating: medium
 date: 2023-11-04
 deadline: 2023-11-02
