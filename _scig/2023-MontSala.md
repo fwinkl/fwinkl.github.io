@@ -1,8 +1,8 @@
 ---
-title: Mont Sâla & Fondue [CANCELED]
+title: Mont Sâla & Fondue
 rating: medium
-date: 2023-11-04
-deadline: 2023-11-02
+date: 2023-11-11
+deadline: 2023-11-08
 up: 600m
 down: 700m
 distance: 21 km
@@ -21,7 +21,7 @@ We finish the hike in Saint-Cergue and for those interested will end the hiking 
 **fondue** in one of the restaurants. Return to Geneva via train.
 
 ## <i class="bi bi-card-checklist"></i>Equipment
-- Usual hiking equipment and picnic
+- Usual warm hiking equipment (with rain gear) and picnic
 - Buy your one-way train ticket in advance
 
 ## <i class="bi bi-piggy-bank"></i>Costs
