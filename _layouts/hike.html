@@ -27,14 +27,30 @@ layout: default
 </div>
 
 <div class="row justify-content-center">
-  {% for media in page.media -%}
-  <div class="col-xs-3 d-flex justify-content-center">
-    <figure class="figure">
-      <img src="{{ media.url }}" class="img-fluid" style="max-width: 600px; width:100%" alt="photo">
-      <figcaption class="figure-caption text-end"><i class="bi bi-c-circle"></i> {{ media.origin }}</figcaption>
-    </figure>
+  <div id="photoCarousel" class="carousel slide col-8" data-bs-ride="carousel" data-bs-interval="5000">
+    <div class="carousel-inner">
+      {% assign first = true -%}
+      {% for media in page.media -%}
+      <div class="carousel-item{% if first %} active{% endif %}">
+        <img src="{{ media.url }}" class="d-block w-100" alt="photo">
+        <div class="carousel-caption d-none d-md-block">
+          <i class="bi bi-c-circle"></i> {{ media.origin }}
+        </div>
+      </div>
+      {% assign first = false -%}
+      {% endfor %}
+    </div>
+    {% if page.media.size > 1 %}
+    <button class="carousel-control-prev" type="button" data-bs-target="#photoCarousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#photoCarousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+    {% endif %}
   </div>
-  {% endfor %}
 </div>
 
 <div class="row">
