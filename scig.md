@@ -20,12 +20,12 @@ For a list of all SCIG hikes see the <a href="https://www.scig.ch/randonnees-ped
     {% capture hikeyear %}{{page.date | date: "%Y"}}{% endcapture %}
     {% if year != hikeyear %}
         {% assign year = hikeyear %}
-<h4 class="year">{{ hikeyear }}</h4>
+<h4 class="year {{ style }}">{{ hikeyear }}</h4>
     {% endif %}
 <div class="row mb-2 {{ style }}">
     <h5><i class="bi bi-calendar-event"></i>&nbsp;{{ page.date | date: "%a %d %b %Y" }}&nbsp;&nbsp;<a href="{{ page.url }}">{{ page.title }}</a></h5>
     <div class="col-sm-3">
-        <a href="{{ page.url }}"><img src="{{ page.media[0].url }}" class="img-fluid"></a>
+        <a href="{{ page.url }}"><img src="{{ page.media[0].url }}" class="img-fluid {{ style }}"></a>
     </div>
     <div class="col-sm">
         {{ page.excerpt | markdownify }}

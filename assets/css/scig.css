@@ -34,8 +34,12 @@ h5 { /* hike header */
     padding-top: 10px;
 }
 
-div.old, div.old a {
+h4.old, div.old, div.old a {
     color: gray;
+}
+
+img.old {
+    filter: grayscale(100%);
 }
 
 ul {
