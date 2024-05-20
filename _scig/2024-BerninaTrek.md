@@ -73,6 +73,7 @@ lunch we will descend via Val Roseg to Pontresina from where we take a train bac
 
 
 ## <i class="bi bi-envelope-at"></i>Signup
+- <span style="color: red"><b>The hike is fully booked. No further sign-ups are accepted.</b></span>
 - Hike leader: Frank Winklmeier (<a href="mailto:{{ page.email }}?subject=SCIG {{page.title}}">{{ page.email }}</a>), Assistant: Maica Trabanco
 - Sign-up via email with the following information:
   - Full name
