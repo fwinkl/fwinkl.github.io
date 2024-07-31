@@ -48,7 +48,7 @@ to the **[Tschierva hut](https://tschierva.ch) (2584m)**.
 
 <b>Day 4: {% include hikestats.html up="0m" down="800m" distance="12km" duration="4 hours" %}</b><br/>
 We will use the morning to get a close-up view of Piz Bernina and its famous Bianco ridge.
-If conditions are perfect, those with enough energy, could consider ascending Piz Morteratsch. After
+If conditions are perfect, those with enough energy, could consider ascending Piz Tschierva. After
 lunch we will descend via Val Roseg to Pontresina from where we take a train back to Geneva.
 
 ## <i class="bi bi-card-checklist"></i>Equipment
