@@ -17,7 +17,7 @@ major technical difficulties. But each day is long (6-8 hours of walking with si
 so you have to be in very good physical shape.
 
 ## Itinerary
-<b>Day 1: {% include hikestats.html up="1100m" down="600m" distance="13km" duration="6 hours" %}</b><br/>
+<b>Day 1: {% include hikestats.html up="800m" down="170m" distance="11km" duration="4 hours" %}</b><br/>
 We take a train and bus to the Mauvoisin dam and hike along a hiking path above the lake
 to the newly renovated **[Cabane de Chanrion](https://www.chanrion.ch)**, which actually belongs to
 the Geneva section of the Club Alpin Suisse.
