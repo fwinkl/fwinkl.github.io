@@ -25,7 +25,7 @@ For a list of all SCIG hikes see the <a href="https://www.scig.ch/randonnees-ped
 <div class="row mb-2 {{ style }}">
     <h5><i class="bi bi-calendar-event"></i>&nbsp;{{ page.date | date: "%a %d %b %Y" }}&nbsp;&nbsp;<a href="{{ page.url }}">{{ page.title }}</a></h5>
     <div class="col-sm-3">
-        <a href="{{ page.url }}"><img src="{{ page.media[0].url }}" class="img-fluid {{ style }}"></a>
+        <a href="{{ page.url }}"><img src="{{ page.media[0].url }}" class="img-fluid {{ style }}" loading="lazy"></a>
     </div>
     <div class="col-sm">
         {{ page.excerpt | markdownify }}
