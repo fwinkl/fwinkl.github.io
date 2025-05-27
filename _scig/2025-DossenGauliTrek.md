@@ -23,6 +23,8 @@ You have to be comfortable on this type of trail and do not suffer from vertigo.
 
 *In case of heavy rain, the hike will either have to be canceled or changed significantly as the ascent to the Dossenhütte will be too dangerous.*
 
+<span style="color: red"><b>The hike is fully booked with several people already on the waiting list.</b></span>
+
 ## Itinerary
 <b>Optional: Thursday, July 31</b><br/>
 For those interested, we will leave already on Thursday morning and do some warm-up hiking in the area and/or
