@@ -9,15 +9,14 @@ distance: 19 km
 duration: 8h
 map: https://www.outdooractive.com/en/route/hiking-trail/bezirk-aigle/roche-pointe-a-l-aiguille-rocher-de-naye/296796728/?share=%7Ezzhfzhup%244ossvheh
 media:
+    - url: /scig/2025-RocherDeNaye-2.jpg
+      origin: Frank Winklmeier
     - url: /scig/2025-RocherDeNaye-4.jpg
       origin: Outdooractive
     - url: /scig/2025-RocherDeNaye-1.jpg
       origin: Frank Winklmeier
-    - url: /scig/2025-RocherDeNaye-2.jpg
-      origin: Frank Winklmeier
     - url: /scig/2025-RocherDeNaye-3.jpg
       origin: Frank Winklmeier
-draft: true
 ---
 
 There are many ways to hike the super popular Rocher de Naye but this one is the
