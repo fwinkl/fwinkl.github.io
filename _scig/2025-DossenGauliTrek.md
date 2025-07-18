@@ -23,14 +23,20 @@ You have to be comfortable on this type of trail and do not suffer from vertigo.
 
 *In case of heavy rain, the hike will either have to be canceled or changed significantly as the ascent to the Dossenhütte will be too dangerous.*
 
-<span style="color: red"><b>The hike is fully booked with several people already on the waiting list.</b></span>
+<span style="color: red"><b>The hike is fully booked.</b></span>
 
 ## Itinerary
-<b>Optional: Thursday, July 31</b><br/>
-For those interested, we will leave already on Thursday morning and do some warm-up hiking in the area and/or
-a visit of the [Rosenlaui Glacier Gorge](https://en.rosenlauischlucht.ch/en).
-You book your own accommodation for Thursday night (e.g. in Rosenlaui or Meiringen). We will meet up with the
-rest of the group on Friday morning in Rosenlaui.
+<b>Optional: Thursday, July 31{% include hikestats.html up="350m" down="0m" distance="5km" duration="3 hours" %}</b><br/>
+We take the train from Geneva to [Aareschlucht](https://aareschlucht.ch/) (East) and walk through the gorge to its west entrance
+(~45 minutes). From there we continue to the top of the impressive [Reichenbachfall](https://en.wikipedia.org/wiki/Reichenbach_Falls)
+where Sherlock Holmes fell to its death.
+People staying at Rosenlaui/Schwarzwaldalp can take the (last) 16:34 bus from Zwirgi. People staying in the valley
+can either take a bus, the cable car, a [Monster-Trotti](https://www.outdoor-for-fun.ch/monster-scooter-fun-for-young-and-old/sherlock-holmes-en)
+or walk back down to Meiringen.
+
+You book your own accommodation for Thursday night (e.g. in Rosenlaui or Meiringen).
+On the next morning, we can meet at Rosenlaui around 10am to visit the [Rosenlaui Glacier Gorge](https://en.rosenlauischlucht.ch/en)
+before the other group from Geneva arrives.
 
 <b>Friday, Aug 1: {% include hikestats.html up="1300m" down="0m" distance="5km" duration="4 hours" %}</b><br/>
 From Rosenlaui we hike through a forest on a normal hiking path until we reach the intersection with the
@@ -51,7 +57,8 @@ to Mürvorsess and take a taxi or walk another 1.5h to Innertkirchen.
 - Usual hiking equipment including rain gear, warm layer and gloves
 - Hut sleeping bag (“sac à viande”) and toiletries
 - Minimum one picnic for the first day + snacks (extra picnics can also be bought in huts)
-- Cash (CHF) for personal consumption at the huts (**credit cards are not accepted** in these huts)
+- 50-100 CHF in cash for personal consumption at the huts (**credit cards are not accepted** in these huts).
+  - Overnight costs are payed by me with your deposit and the remaining amount you pay me in cash/TWINT on the last day.
 - Optional:
   - Demi-tarif and alpine club membership card if available
   - Bathing suit for the brave ones (there are several lakes on the way)
@@ -81,7 +88,7 @@ To secure your spot a **deposit of CHF 150** is required by **{{ page.deadline |
 Payment details will be communicated after sign-up.
 
 ## <i class="bi bi-train-front"></i>Transport
-- **Friday Aug 1 IR 90 7:05 Genève – 11:52 Rosenlaui, Gletscherschlucht** (via Meiringen)
-  - Your hike leaders will meet your directly at the arrival of the Post bus in Rosenlaui.
-- Transport for the Thursday group will be communicated later (leaving Geneva around 9am).
-- Return via train from Innertkirchen on Aug 3rd
+- **Thursday group: July 31 IC 1 8:35 Genève – 12:50 Aareschlucht Ost**
+- **Friday group: Aug 1 IR 90 7:05 Genève – 11:52 Rosenlaui, Gletscherschlucht** (via Meiringen)
+  - Your hike leader and the Thursday group will meet you directly at the arrival of the Post bus in Rosenlaui.
+- Return via train from Innertkirchen on Aug 3rd (every hour at :02)
