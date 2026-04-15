@@ -2,6 +2,7 @@
 title: Demi-Tour des Combins (3 days)
 rating: difficult
 date: 2026-08-01
+date_end: 2026-08-03
 up: 2600m
 down: 2400m
 distance: 31 km
