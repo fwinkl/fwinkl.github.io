@@ -18,6 +18,8 @@ media:
 The hike will lead us on the Swiss half of the Tour des Combins with
 an ascent of Mont Rogneux. You need to be comfortable hiking on blue-white alpine trails (T4).
 
+<span style="color: red"><b>The hike is fully booked.</b></span>
+
 ## Itinerary
 <b>Day 1: {% include hikestats.html up="1100m" down="280m" distance="11km" duration="4h30m" %}</b><br/>
 We take a train and bus to **Bourg-St-Pierre** and start the hike with the first stage of the 
@@ -58,6 +60,7 @@ taxi to bring us back to Le Châble.
 
 
 ## <i class="bi bi-envelope-at"></i>Signup
+- <span style="color: red"><b>The hike is full. Due to limited spaces in the huts, no further sign-ups possible.</b></span>
 - Hike leader: Frank Winklmeier (<a href="mailto:{{ page.email }}?subject=SCIG {{page.title}}">{{ page.email }}</a>), Assistant: Maica Trabanco
 - Sign-up via email with the following information:
   - Full name
